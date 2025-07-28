@@ -1,11 +1,20 @@
 ### 👋 Hola, soy José Tomás
 
-Soy Ingeniero Civil de la Pontificia Universidad Católica de Chile, y cuento con un gran interés en la tecnología, los datos y la innovación. Me gusta usar herramientas digitales e IA para resolver problemas del mundo real.
+Soy Ingeniero Civil de la Universidad Católica de Chile, con un fuerte interés en el mundo digital, los datos y la automatización. Me motiva diseñar soluciones que combinen estrategia, creatividad y tecnología para generar impacto real.
 
-👷 Experiencia en construcción + innovación  
+---
+
+### Sobre mí:
+
+👷 Vengo del mundo de la construcción, donde trabajé impulsando procesos de innovación  
 📊 Tengo interés en ciencias de datos y herramientas de automatización  
-🛠️ Soy una persona creativa, estratégica, y con gran sentido de trabajo en equipo.
+🛠️ Soy una persona creativa, estratégica, y con gran sentido de trabajo en equipo  
 
-Aunque mi pasión.. el buceo 🤿
+---
 
-🔗 Más sobre mí en [LinkedIn](https://www.linkedin.com/in/tu-link/)
+📍 Vivo en Santiago de Chile  
+🔗 [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/jos%C3%A9-tom%C3%A1s-aspillaga-vald%C3%A9s-062b96141/)
+
+---
+
+🫧 *Dato extra:* Me encanta el buceo. Nada como desconectarse bajo el agua para volver con ideas frescas.
