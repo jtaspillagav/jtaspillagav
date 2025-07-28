@@ -15,6 +15,7 @@ Soy Ingeniero Civil de la Universidad Católica de Chile, con un fuerte interés
 📍 Vivo en Santiago de Chile  
 🔗 [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/jos%C3%A9-tom%C3%A1s-aspillaga-vald%C3%A9s-062b96141/)
 
+💡 Por ahora no tengo proyectos en GitHub, pero espero ir compartiendo algunos a medida que avanzo en este camino.
 ---
 
 *Dato extra:* Me encanta el buceo. Nada como desconectarse bajo el agua para volver con ideas frescas.
