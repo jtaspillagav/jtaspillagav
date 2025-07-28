@@ -17,4 +17,4 @@ Soy Ingeniero Civil de la Universidad Católica de Chile, con un fuerte interés
 
 ---
 
-🫧 *Dato extra:* Me encanta el buceo. Nada como desconectarse bajo el agua para volver con ideas frescas.
+*Dato extra:* Me encanta el buceo. Nada como desconectarse bajo el agua para volver con ideas frescas.
